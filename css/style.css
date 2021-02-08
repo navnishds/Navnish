@@ -308,6 +308,28 @@ a:hover, a:focus, a:active {
     color:#fff
 }
 
+.resume-item .role-date-1 {
+    margin-bottom: .0rem;
+}
+
+.resume-item .role-date-2 {
+    margin-bottom: .5rem;
+}
+
+.resume-item .two-role {
+    /*display: block;*/
+    margin-bottom: 10px;
+    font-size: 12px;
+    font-weight: 700;
+    color:#fff
+}
+
+.resume-item .role-date-h2 {
+    font-size: 25px;
+    color: #fff;
+    font-weight: 200;
+}
+
 .resume-item .school {
     display: block;
     font-size:16px
